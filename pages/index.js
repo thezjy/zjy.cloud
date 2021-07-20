@@ -9,7 +9,7 @@ export default function Home() {
       <div className="leading-7 container mx-auto md:mt-40 md:p-0 md:max-w-lg p-4 text-base md:text-lg">
         <p>
           My name is Junyu Zhan (詹俊宇). I&apos;m a programmer learning to
-          build better user exprience and developer exprience.
+          build better user experience and developer experience.
         </p>
         <p>
           This website is under construction. It will be the place mainly for my
