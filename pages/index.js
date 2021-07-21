@@ -20,7 +20,6 @@ export default function Home() {
         <ul className="flex">
           <li className="mr-2">
             <a
-              className="text-[orange]"
               href="https://github.com/thezjy"
               target="_blank"
               rel="noreferrer"
@@ -30,7 +29,6 @@ export default function Home() {
           </li>
           <li className="mr-2">
             <a
-              className="text-[orange]"
               href="https://twitter.com/thezjy1"
               target="_blank"
               rel="noreferrer"
@@ -39,9 +37,7 @@ export default function Home() {
             </a>
           </li>
           <li className="mr-2">
-            <a className="text-[orange]" href="mailto:thezjy@gmail.com">
-              Email
-            </a>
+            <a href="mailto:thezjy@gmail.com">Email</a>
           </li>
         </ul>
       </div>
